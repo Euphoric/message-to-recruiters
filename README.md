@@ -6,7 +6,7 @@ During our interview, I expect to receive answers to these questions:
 
 1. What process is used to manage how developers work? Scrum, Kanban, XP or something else? Are there any significant deviations from how the practice is commonly understood?
 1. As a developer, how will I know what issues I should focus on? And how will I know when I’m finished? Is there Definition of Done for the team? What does Definition of Done contain?
-1.As a software developer, how do I know the impact of my work on clients, customers and users? How do I know I’m delighting and empowering our customers and users with the work I do?
+1. As a software developer, how do I know the impact of my work on clients, customers and users? How do I know I’m delighting and empowering our customers and users with the work I do?
 1. If I were to stand in your office, what is immediate information I can learn about the current state of the team / work / project / process? Things like kanban boards, in-progress work, results of CI/CD pipeline, etc..
 1. What metrics does team observe and use to improve it's product and process of creating that product?
 1. How is technical debt managed? If I find a place for improvement, that is not immediately related to my current task, how is this managed so it can be fixed in the future?
