@@ -18,6 +18,8 @@ During our interview, I expect to receive answers to these questions:
    - How does the pipeline look like? How frequently is it run and how fast does it run?
    - What are the final outputs of your CI/CD pipeline?
    - Assuming CI runs automated tests, what level of confidence the team has that their software is deployable to users when all tests pass?
+   - How many of automated tests can be run locally on engineer's workstation? How much effort is necessary to get automated tests running locally?
+1. As a new engineer on a team, how many steps do I need to take to get the project running on my local workstation? How many of those steps are manual?
 1. How frequently is product deployed into production? If deployment frequency is less than 1 week, how are features that cannot be finished between deployments handled?
 1. How does the team and the organization approach personal growth of developers? Is there time set aside for learning or trying new technologies? What resources or talks are available to developers to help with learning and improving?
 1. Are there organizational processes or practicess that helps with distribution of knowledge across individuals, teams and divisions?
